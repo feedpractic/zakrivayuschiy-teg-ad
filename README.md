@@ -1,1 +1,1 @@
-https://renakezo.github.io/zakrivayuschiy-teg-ad/
+https://github.com/feedpractic/zakrivayuschiy-teg-ad
