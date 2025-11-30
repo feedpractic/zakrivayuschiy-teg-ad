@@ -1,0 +1,27 @@
+.section__image.filter-deadside {
+  filter: invert(80%) hue-rotate(180deg) contrast(130%);
+}
+
+.section__image.filter-oblivion {
+  filter: blur(3px) grayscale(70%) brightness(80%);
+}
+
+.section__image.filter-depression {
+  filter: grayscale(80%) brightness(65%) contrast(125%) hue-rotate(220deg);
+}
+
+.section__image.filter-ghostly {
+  filter: opacity(70%) grayscale(100%) blur(1px);
+}
+
+.section__image.filter-post-apocalyptic {
+  filter: hue-rotate(120deg) saturate(200%) contrast(140%) brightness(60%);
+}
+
+.section__image.filter-existential {
+  filter: invert(30%) sepia(40%) hue-rotate(270deg) contrast(150%);
+}
+
+.section__image.filter-decay {
+  filter: hue-rotate(100deg) saturate(40%) contrast(110%);
+}
