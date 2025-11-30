@@ -1,5 +1,4 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
-<<<<<<< HEAD
 
 :root {
 	--inter-font: 'Inter';
@@ -24,5 +23,3 @@
 		repeating-linear-gradient(90deg, #d3d3d3, #d3d3d3 2px, transparent 2px 4px),
 		linear-gradient(#e7e7e7, #1a1a1a);
 }
-=======
->>>>>>> 96a78de3412dd6ad602aa7835ef827a03f1c2477
