@@ -256,7 +256,6 @@
 @supports (text-stroke: 1px var(--stroke-color)) or
 	(-webkit-text-stroke: 1px var(--stroke-color)) {
 	.card__text {
-		text-stroke: 1px var(--stroke-color);
 		-webkit-text-stroke: 1px var(--stroke-color);
 	}
 }
