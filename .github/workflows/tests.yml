@@ -16,9 +16,16 @@ jobs:
       - name: Check if the repository is private
         run: exit 1
         if: ${{github.event.repository.private}}
+<<<<<<< HEAD
       # - name: Tests
       #   uses: Yandex-Practicum/test-project-action@v1
       #   with:
       #     project: 'zakrivayuschiy-teg-ad'
       - name: Tests
         run: echo "Никаких ошибок :)"
+=======
+      - name: Tests
+        uses: Yandex-Practicum/test-project-action@v1
+        with:
+          project: 'zakrivayuschiy-teg-ad'
+>>>>>>> 96a78de3412dd6ad602aa7835ef827a03f1c2477

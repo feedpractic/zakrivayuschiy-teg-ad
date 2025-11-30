@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 @charset "UTF-8";
+=======
+>>>>>>> 96a78de3412dd6ad602aa7835ef827a03f1c2477
 /* Здесь вы напишете основную часть стилей страницы.
 
 Будьте внимательны! Для корректной работы скриптов на этом сайте нужно, чтобы в HTML некоторые классы были названы особым образом:
@@ -10,6 +13,7 @@
 ✦ button__text — для обозначения текстового элемента внутри кнопки
 
 */
+<<<<<<< HEAD
 .button {
   position: relative;
   display: flex;
@@ -51,10 +55,13 @@
 .button:focus {
   box-shadow: 2px 2px 0 var(--border-color);
 }
+=======
+>>>>>>> 96a78de3412dd6ad602aa7835ef827a03f1c2477
 
 .page {
   min-inline-size: 320px;
   min-block-size: 100dvb;
+<<<<<<< HEAD
   font-family: var(--inter-font, "sans-serif");
   font-variation-settings: "wght" var(--card-text-width), "wdth" 100;
   background: var(--main-background-color);
@@ -259,3 +266,6 @@
     height: 28px;
   }
 }/*# sourceMappingURL=style.css.map */
+=======
+}
+>>>>>>> 96a78de3412dd6ad602aa7835ef827a03f1c2477
